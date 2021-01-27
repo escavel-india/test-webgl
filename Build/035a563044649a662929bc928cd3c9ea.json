@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DCMotor_Prj",
+"productVersion": "0.1",
+"dataUrl": "520f34e138caab9641f7a18f2815f78a.unityweb",
+"wasmCodeUrl": "f1da4a928e6407a6ec60a1769254b060.wasm",
+"wasmFrameworkUrl": "6d34f75c7c30165714d5f21883d0f63d.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
